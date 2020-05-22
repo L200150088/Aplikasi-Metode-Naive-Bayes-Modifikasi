@@ -1,0 +1,33 @@
+1.)testing data ke 1-150 = jumalh data bertambah 150                data_tr=800   data_testing=450
+   tr data ke 151-351 = 200
+
+2.)tr data ke 351-451 = jumlah data bertambah +100
+   testing data ke 451-501 =   jumlah data bertambah +50
+
+3.)tr data ke 501-651 = 
+   testing data ke 651-751=   
+
+4.)tr data ke 751-851 = jumlah data bertambah +100
+   testing data ke 852-902=   jumlah data bertambah +50
+
+hapus semua data ulang dari awal
+
+5.)tr data ke 251-851  
+   testing data ke 1-250
+
+6.)tr data ke 852-952  
+   testing data ke  1-250
+
+7.)tr data ke 953-1053  
+   testing data ke 1-250  
+ 
+8.)tr data ke 1053-1153  
+   testing data ke  1-250
+
+9.)tr data ke 1153-1253  
+   testing data ke  1-250
+
+10.)tr data ke 1253 sampai data ke 1500 
+   testing data ke  1-250
+
+ 
