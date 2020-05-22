@@ -1,11 +1,11 @@
 ###################
-Sistem Informasi Prediksi Tanah Longsor.
+Aplikasi Naive Bayes Modifikasi
 ###################
 
--  Memiliki 2 hak akses user, Admin dan Staf Daerah 
--  Sistem mengolah data (13 parameter) dari Staf Daerah untuk memprediksi daerah tersebut aman atau rawan dari tanah longsor
--  Pengolahan Data dan Prediksi longsor Menggunakan Metode Datamining (Naive Bayes classifier)
--  Web Based Application menggunakan Framework CodeIgniter 3
+-  Naive Bayes Classification.
+-  Modifikasi Naive Bayes Dengan Laplace Smoothing.
+-  Modifikasi Naive Bayes Merubah Perkalian Menjadi Penjumlahan.
+-  Menghitung Precision , Recall , Accuracy.
 
 *******
 License
